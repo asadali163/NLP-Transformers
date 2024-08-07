@@ -21,3 +21,11 @@ This notebook uses a Hugging Face model for question answering within the given 
 ### NLP_Zero_Shot_Classification_basic.ipynb
 This notebook performs zero-shot classification on BBC data.
 
+### NLP_Fine_Tuning_Sentiment_Analysis_intermediate.ipynb
+This notebook uses the publicly available "GLUE SST-2" dataset from Hugging Face. It then employs the DistilBERT model from Hugging Face, fine-tuning it on custom data to perform sentiment analysis, classifying text as either positive or negative.
+
+### NLP_Fine_Tuning_on_Custom_Data_intermediate.ipynb
+This notebook performs sentiment analysis, classifying text as positive, negative, or neutral. The dataset is sourced from Kaggle, and the open-source DistilBERT transformer model from Hugging Face is used.
+
+
+
