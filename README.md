@@ -27,5 +27,8 @@ This notebook uses the publicly available "GLUE SST-2" dataset from Hugging Face
 ### NLP_Fine_Tuning_on_Custom_Data_intermediate.ipynb
 This notebook performs sentiment analysis, classifying text as positive, negative, or neutral. The dataset is sourced from Kaggle, and the open-source DistilBERT transformer model from Hugging Face is used.
 
+### NER_intermediate.ipynb
+This notebook focuses on the Named Entity Recognition (NER) task using the publicly available "CoNLL2003" dataset. Given that there are 8 different tags, a slightly different approach is required. The DistilBERT cased model is used, as NER is a case-sensitive task.
+
 
 
