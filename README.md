@@ -30,5 +30,8 @@ This notebook performs sentiment analysis, classifying text as positive, negativ
 ### NER_intermediate.ipynb
 This notebook focuses on the Named Entity Recognition (NER) task using the publicly available "CoNLL2003" dataset. Given that there are 8 different tags, a slightly different approach is required. The DistilBERT cased model is used, as NER is a case-sensitive task.
 
+### NLP_Translation_intermediate.ipynb
+This notebook uses a publicly available dataset from Hugging Face to create a fine-tuned translator from English to French.
+
 
 
